@@ -1,5 +1,3 @@
-#include <stdio.h>
-
 extern void print_string_asm(const char* str);
 
 int main()
